@@ -1,1 +1,54 @@
 /*  your css code here. If applicable */
+.block-heading{
+    font-size:30px
+	color:#3b99e0;
+}
+.card-text{
+    font-size:18px;
+    margin-top: 20px;
+}
+.text-info{
+    font-size:18px;
+    font-weight:500;
+}
+.lhs{
+    width:57%;
+    margin-left: 10%;
+}
+.summary{
+    width:20%;
+    height:350px;
+    border-top: 2px #5ea4f3 solid;
+    background-color: #f7fbff;
+    margin-right: 5%;
+}
+table th{
+    font-size:25px;
+    font-weight:700;
+}
+table td{
+    font-size:18px;
+    font-weight:500;
+}
+button{
+    width:auto;
+}
+.my-card{
+    display:flex;
+    background-color:white;
+    border:2px #fefefe solid;
+    margin-top:30px;
+}
+
+.desc p{
+    margin-top:-20px;
+}
+.product input{
+    width:70px;
+    height:35px;
+    border-radius: 5px;
+}
+.product label{
+    font-weight: 700;
+}
+.product h3{margin-top:65px;}
